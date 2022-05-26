@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52648962.css",
+    "main.js": "/static/js/main.9bbc9b6e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/prize-photo.jpeg": "/static/media/prize-photo.016b6d0ce5bff1cc62bd.jpeg",
+    "static/media/college.png": "/static/media/college.54bf5ed0cec59692d5cf.png",
+    "static/media/BullyBot.png": "/static/media/BullyBot.9f32d07c0e347ba3b594.png",
+    "static/media/Pokedex.png": "/static/media/Pokedex.dd5eeb2e328651660c5f.png",
+    "static/media/dealer.jpeg": "/static/media/dealer.b553311ff5b0160d758e.jpeg",
+    "static/media/Pokedex2.png": "/static/media/Pokedex2.360a86bd5ae6901d229b.png",
+    "static/media/NFLAPI.png": "/static/media/NFLAPI.821b96df49a7e8befece.png",
+    "static/media/NFLAPI2.png": "/static/media/NFLAPI2.5fc7abc64f4f22a91834.png",
+    "static/media/Pacman.png": "/static/media/Pacman.617f83718e70e0e15c71.png",
+    "static/media/MERN3.png": "/static/media/MERN3.253fb9d25610fc709291.png",
+    "static/media/MERN2.png": "/static/media/MERN2.c265af7b1af74b18965c.png",
+    "static/media/MERN.png": "/static/media/MERN.d47472ba5d1b9fd943e1.png",
+    "static/media/BullyBot3.png": "/static/media/BullyBot3.ad0a77c206eb624c8a59.png",
+    "static/media/Snake2.png": "/static/media/Snake2.c19fdf2e01332b9e637c.png",
+    "static/media/BullyBot2.png": "/static/media/BullyBot2.a6e990fdd569fceefcbc.png",
+    "index.html": "/index.html",
+    "main.52648962.css.map": "/static/css/main.52648962.css.map",
+    "main.9bbc9b6e.js.map": "/static/js/main.9bbc9b6e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52648962.css",
+    "static/js/main.9bbc9b6e.js"
+  ]
+}
